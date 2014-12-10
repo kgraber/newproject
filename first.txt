@@ -1,0 +1,3 @@
+This is the first practice file inside this repository.
+
+This file will have changes to it as well as eventually moving to a new directory.
